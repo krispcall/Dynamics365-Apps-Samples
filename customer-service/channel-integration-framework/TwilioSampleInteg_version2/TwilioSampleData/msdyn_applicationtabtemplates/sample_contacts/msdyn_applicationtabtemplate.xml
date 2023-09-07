@@ -1,0 +1,14 @@
+<msdyn_applicationtabtemplate msdyn_uniquename="sample_contacts">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_name default="Contacts">
+    <label description="Contacts" languagecode="1033" />
+  </msdyn_name>
+  <msdyn_pagetype>509180000</msdyn_pagetype>
+  <msdyn_pinned>0</msdyn_pinned>
+  <msdyn_templateparameters>{"entityName":{"value":"contact"},"viewId":{"value":"00000000-0000-0000-00AA-000010001003"},"viewType":{"value":null}}</msdyn_templateparameters>
+  <msdyn_title default="My Contacts">
+    <label description="My Contacts" languagecode="1033" />
+  </msdyn_title>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_applicationtabtemplate>

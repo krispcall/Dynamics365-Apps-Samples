@@ -1,0 +1,12 @@
+<msdyn_templateparameter msdyn_uniquename="sample_entityrecord_isOfflineSyncError">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_applicationtabtemplateid>
+    <msdyn_uniquename>sample_entityrecord</msdyn_uniquename>
+  </msdyn_applicationtabtemplateid>
+  <msdyn_name default="isOfflineSyncError">
+    <label description="isOfflineSyncError" languagecode="1033" />
+  </msdyn_name>
+  <msdyn_value>0</msdyn_value>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_templateparameter>

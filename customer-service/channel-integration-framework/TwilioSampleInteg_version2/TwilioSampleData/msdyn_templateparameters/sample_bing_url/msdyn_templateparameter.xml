@@ -1,0 +1,12 @@
+<msdyn_templateparameter msdyn_uniquename="sample_bing_url">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_applicationtabtemplateid>
+    <msdyn_uniquename>sample_bing</msdyn_uniquename>
+  </msdyn_applicationtabtemplateid>
+  <msdyn_name default="url">
+    <label description="url" languagecode="1033" />
+  </msdyn_name>
+  <msdyn_value>https://www.bing.com/search?q={searchQ}</msdyn_value>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_templateparameter>

@@ -1,0 +1,14 @@
+<msdyn_applicationtabtemplate msdyn_uniquename="sample_bing">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_name default="Bing">
+    <label description="Bing" languagecode="1033" />
+  </msdyn_name>
+  <msdyn_pagetype>509180006</msdyn_pagetype>
+  <msdyn_pinned>0</msdyn_pinned>
+  <msdyn_templateparameters>{"webresourceName":{"value":"msdyn_CECExternalWebPageContainer.html"},"data":{"value":"cif_thirdpartyurlhttps:\/\/www.bing.com\/search?q%3D{searchQ}"}}</msdyn_templateparameters>
+  <msdyn_title default="Bing">
+    <label description="Bing" languagecode="1033" />
+  </msdyn_title>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_applicationtabtemplate>

@@ -1,0 +1,24 @@
+<msdyn_notificationtemplate msdyn_uniquename="sample_IncomingCallNotification">
+  <iscustomizable>1</iscustomizable>
+  <msdyn_acceptbuttontext default="Accept">
+    <label description="Accept" languagecode="1033" />
+  </msdyn_acceptbuttontext>
+  <msdyn_autoacceptnotification>0</msdyn_autoacceptnotification>
+  <msdyn_desktopnotificationmode>509180000</msdyn_desktopnotificationmode>
+  <msdyn_icon>/webresources/call_icon.svg</msdyn_icon>
+  <msdyn_name default="IncomingCallNotification">
+    <label description="IncomingCallNotification" languagecode="1033" />
+  </msdyn_name>
+  <msdyn_rejectbuttontext default="Reject">
+    <label description="Reject" languagecode="1033" />
+  </msdyn_rejectbuttontext>
+  <msdyn_showrejectbutton>1</msdyn_showrejectbutton>
+  <msdyn_showtimeout>1</msdyn_showtimeout>
+  <msdyn_theme>509180000</msdyn_theme>
+  <msdyn_timeout>120</msdyn_timeout>
+  <msdyn_title default="Call from {number}">
+    <label description="Call from {number}" languagecode="1033" />
+  </msdyn_title>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</msdyn_notificationtemplate>
